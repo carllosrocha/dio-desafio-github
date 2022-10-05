@@ -1,6 +1,6 @@
-##Através das aulas da Dio e do Bootcamp, estou conseguindo internalizar vários conceitos basicos e fundamentais voltado para versionamento de códigos distribuidos. Então, gostaria de compartilhas com todos vocês os principais comandos que aprendi, asism como, alguns conceitos que acredito serem fundamentais.
+# Através das aulas da Dio e dos desafios do Bootcamp, estou conseguindo internalizar vários conceitos basicos e fundamentais voltado para o versionamento de códigos distribuidos e compartilhados. Por esse motivo, gostaria de compartilhar com entusiamos e alegrias com todos vocês, alguns comandos que aprendi, asism como, conceitos que acredito que sejam a base para o entendimento da finalizade dessas duas plantaformas que divergem, contudo, se complementam.
 
-# Conceitos:
+# Conceitos
 1 - O que é o GI?
 R: Sistema ou ambiente de versionamento de arquivos, onde pode ser aplicado em diversas áreas do conhecimento, especialmente na área tech;
 
